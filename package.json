@@ -1,0 +1,33 @@
+{
+  "name": "zugchain-bot",
+  "version": "1.0.0",
+  "description": "Zugchain testnet automation bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check-config": "node index.js --check-config",
+    "check-data": "node index.js --check-data",
+    "clear-data": "node index.js --clear-data",
+    "check-log": "node index.js --check-log",
+    "clear-log": "node index.js --clear-log"
+  },
+  "keywords": [
+    "zugchain",
+    "testnet",
+    "automation",
+    "airdrop",
+    "crypto",
+    "evm",
+    "defi"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.16.0",
+    "figlet": "^1.10.0",
+    "got-scraping": "^4.1.3",
+    "user-agents": "^1.1.285"
+  }
+}
