@@ -29,7 +29,7 @@ Automated bot for interacting with Zugchain Incentive Testnet Campaign with supp
 - **Private Keys** - Ethereum wallet private keys
 - **X (Twitter)** - Connected to Zugchain account (required for faucet)
 - **Proxies** (Optional but recommended for multiple accounts)
-- **SCTG Solver API Key** (Optional, uses local solver as fallback)
+- **[SCTG Solver API Key](https://t.me/Xevil_check_bot?start=1379619439)** (Optional, uses local solver as fallback)
 
 ## Quick Start
 
